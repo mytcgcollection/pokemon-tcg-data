@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "sv2a-001",
+    "name": "Bulbasaur",
+    "number": "1",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/001/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/001/high.png"
+    }
+  },
+  {
+    "id": "sv2a-002",
+    "name": "Ivysaur",
+    "number": "2",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/002/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/002/high.png"
+    }
+  },
+  {
+    "id": "sv2a-003",
+    "name": "Venusaur ex",
+    "number": "3",
+    "rarity": "Double rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/003/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/003/high.png"
+    }
+  },
+  {
+    "id": "sv2a-004",
+    "name": "Charmander",
+    "number": "4",
+    "rarity": "Common",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/004/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/004/high.png"
+    }
+  },
+  {
+    "id": "sv2a-005",
+    "name": "Charmeleon",
+    "number": "5",
+    "rarity": "Uncommon",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/005/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/005/high.png"
+    }
+  },
+  {
+    "id": "sv2a-006",
+    "name": "Charizard ex",
+    "number": "6",
+    "rarity": "Double rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/006/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/006/high.png"
+    }
+  },
+  {
+    "id": "sv2a-007",
+    "name": "Squirtle",
+    "number": "7",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/007/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/007/high.png"
+    }
+  },
+  {
+    "id": "sv2a-008",
+    "name": "Wartortle",
+    "number": "8",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/008/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/008/high.png"
+    }
+  },
+  {
+    "id": "sv2a-009",
+    "name": "Blastoise ex",
+    "number": "9",
+    "rarity": "Double rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/009/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/009/high.png"
+    }
+  },
+  {
+    "id": "sv2a-010",
+    "name": "Caterpie",
+    "number": "10",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/010/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/010/high.png"
+    }
+  },
+  {
+    "id": "sv2a-011",
+    "name": "Metapod",
+    "number": "11",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/011/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/011/high.png"
+    }
+  },
+  {
+    "id": "sv2a-012",
+    "name": "Butterfree",
+    "number": "12",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/012/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/012/high.png"
+    }
+  },
+  {
+    "id": "sv2a-013",
+    "name": "Weedle",
+    "number": "13",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/013/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/013/high.png"
+    }
+  },
+  {
+    "id": "sv2a-014",
+    "name": "Kakuna",
+    "number": "14",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/014/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/014/high.png"
+    }
+  },
+  {
+    "id": "sv2a-015",
+    "name": "Beedrill",
+    "number": "15",
+    "rarity": "Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/015/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/015/high.png"
+    }
+  },
+  {
+    "id": "sv2a-016",
+    "name": "Pidgey",
+    "number": "16",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/016/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/016/high.png"
+    }
+  },
+  {
+    "id": "sv2a-017",
+    "name": "Pidgeotto",
+    "number": "17",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/017/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/017/high.png"
+    }
+  },
+  {
+    "id": "sv2a-018",
+    "name": "Pidgeot",
+    "number": "18",
+    "rarity": "Uncommon",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/018/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/018/high.png"
+    }
+  },
+  {
+    "id": "sv2a-019",
+    "name": "Rattata",
+    "number": "19",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/019/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/019/high.png"
+    }
+  },
+  {
+    "id": "sv2a-020",
+    "name": "Raticate",
+    "number": "20",
+    "rarity": "Uncommon",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/020/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/020/high.png"
+    }
+  },
+  {
+    "id": "sv2a-021",
+    "name": "Spearow",
+    "number": "21",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/021/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/021/high.png"
+    }
+  },
+  {
+    "id": "sv2a-022",
+    "name": "Fearow",
+    "number": "22",
+    "rarity": "Uncommon",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/022/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/022/high.png"
+    }
+  },
+  {
+    "id": "sv2a-023",
+    "name": "Ekans",
+    "number": "23",
+    "rarity": "Common",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/023/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/023/high.png"
+    }
+  },
+  {
+    "id": "sv2a-024",
+    "name": "Arbok ex",
+    "number": "24",
+    "rarity": "Double rare",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/024/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/024/high.png"
+    }
+  },
+  {
+    "id": "sv2a-025",
+    "name": "Pikachu",
+    "number": "25",
+    "rarity": "Common",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/025/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/025/high.png"
+    }
+  },
+  {
+    "id": "sv2a-026",
+    "name": "Raichu",
+    "number": "26",
+    "rarity": "Rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/026/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/026/high.png"
+    }
+  },
+  {
+    "id": "sv2a-027",
+    "name": "Sandshrew",
+    "number": "27",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/027/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/027/high.png"
+    }
+  },
+  {
+    "id": "sv2a-028",
+    "name": "Sandslash",
+    "number": "28",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/028/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/028/high.png"
+    }
+  },
+  {
+    "id": "sv2a-029",
+    "name": "Nidoran♀",
+    "number": "29",
+    "rarity": "Common",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/029/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/029/high.png"
+    }
+  },
+  {
+    "id": "sv2a-030",
+    "name": "Nidorina",
+    "number": "30",
+    "rarity": "Uncommon",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/030/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/030/high.png"
+    }
+  },
+  {
+    "id": "sv2a-031",
+    "name": "Nidoqueen",
+    "number": "31",
+    "rarity": "Uncommon",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/031/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/031/high.png"
+    }
+  },
+  {
+    "id": "sv2a-032",
+    "name": "Nidoran♂",
+    "number": "32",
+    "rarity": "Common",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/032/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/032/high.png"
+    }
+  },
+  {
+    "id": "sv2a-033",
+    "name": "Nidorino",
+    "number": "33",
+    "rarity": "Uncommon",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/033/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/033/high.png"
+    }
+  },
+  {
+    "id": "sv2a-034",
+    "name": "Nidoking",
+    "number": "34",
+    "rarity": "Rare",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/034/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/034/high.png"
+    }
+  },
+  {
+    "id": "sv2a-035",
+    "name": "Clefairy",
+    "number": "35",
+    "rarity": "Common",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/035/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/035/high.png"
+    }
+  },
+  {
+    "id": "sv2a-036",
+    "name": "Clefable",
+    "number": "36",
+    "rarity": "Uncommon",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/036/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/036/high.png"
+    }
+  },
+  {
+    "id": "sv2a-037",
+    "name": "Vulpix",
+    "number": "37",
+    "rarity": "Common",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/037/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/037/high.png"
+    }
+  },
+  {
+    "id": "sv2a-038",
+    "name": "Ninetales ex",
+    "number": "38",
+    "rarity": "Double rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/038/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/038/high.png"
+    }
+  },
+  {
+    "id": "sv2a-039",
+    "name": "Jigglypuff",
+    "number": "39",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/039/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/039/high.png"
+    }
+  },
+  {
+    "id": "sv2a-040",
+    "name": "Wigglytuff ex",
+    "number": "40",
+    "rarity": "Double rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/040/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/040/high.png"
+    }
+  },
+  {
+    "id": "sv2a-041",
+    "name": "Zubat",
+    "number": "41",
+    "rarity": "Common",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/041/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/041/high.png"
+    }
+  },
+  {
+    "id": "sv2a-042",
+    "name": "Golbat",
+    "number": "42",
+    "rarity": "Uncommon",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/042/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/042/high.png"
+    }
+  },
+  {
+    "id": "sv2a-043",
+    "name": "Oddish",
+    "number": "43",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/043/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/043/high.png"
+    }
+  },
+  {
+    "id": "sv2a-044",
+    "name": "Gloom",
+    "number": "44",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/044/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/044/high.png"
+    }
+  },
+  {
+    "id": "sv2a-045",
+    "name": "Vileplume",
+    "number": "45",
+    "rarity": "Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/045/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/045/high.png"
+    }
+  },
+  {
+    "id": "sv2a-046",
+    "name": "Paras",
+    "number": "46",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/046/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/046/high.png"
+    }
+  },
+  {
+    "id": "sv2a-047",
+    "name": "Parasect",
+    "number": "47",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/047/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/047/high.png"
+    }
+  },
+  {
+    "id": "sv2a-048",
+    "name": "Venonat",
+    "number": "48",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/048/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/048/high.png"
+    }
+  },
+  {
+    "id": "sv2a-049",
+    "name": "Venomoth",
+    "number": "49",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/049/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/049/high.png"
+    }
+  },
+  {
+    "id": "sv2a-050",
+    "name": "Diglett",
+    "number": "50",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/050/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/050/high.png"
+    }
+  },
+  {
+    "id": "sv2a-051",
+    "name": "Dugtrio",
+    "number": "51",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/051/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/051/high.png"
+    }
+  },
+  {
+    "id": "sv2a-052",
+    "name": "Meowth",
+    "number": "52",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/052/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/052/high.png"
+    }
+  },
+  {
+    "id": "sv2a-053",
+    "name": "Persian",
+    "number": "53",
+    "rarity": "Uncommon",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/053/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/053/high.png"
+    }
+  },
+  {
+    "id": "sv2a-054",
+    "name": "Psyduck",
+    "number": "54",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/054/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/054/high.png"
+    }
+  },
+  {
+    "id": "sv2a-055",
+    "name": "Golduck",
+    "number": "55",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/055/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/055/high.png"
+    }
+  },
+  {
+    "id": "sv2a-056",
+    "name": "Mankey",
+    "number": "56",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/056/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/056/high.png"
+    }
+  },
+  {
+    "id": "sv2a-057",
+    "name": "Primeape",
+    "number": "57",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/057/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/057/high.png"
+    }
+  },
+  {
+    "id": "sv2a-058",
+    "name": "Growlithe",
+    "number": "58",
+    "rarity": "Common",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/058/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/058/high.png"
+    }
+  },
+  {
+    "id": "sv2a-059",
+    "name": "Arcanine",
+    "number": "59",
+    "rarity": "Uncommon",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/059/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/059/high.png"
+    }
+  },
+  {
+    "id": "sv2a-060",
+    "name": "Poliwag",
+    "number": "60",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/060/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/060/high.png"
+    }
+  },
+  {
+    "id": "sv2a-061",
+    "name": "Poliwhirl",
+    "number": "61",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/061/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/061/high.png"
+    }
+  },
+  {
+    "id": "sv2a-062",
+    "name": "Poliwrath",
+    "number": "62",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/062/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/062/high.png"
+    }
+  },
+  {
+    "id": "sv2a-063",
+    "name": "Abra",
+    "number": "63",
+    "rarity": "Common",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/063/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/063/high.png"
+    }
+  },
+  {
+    "id": "sv2a-064",
+    "name": "Kadabra",
+    "number": "64",
+    "rarity": "Uncommon",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/064/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/064/high.png"
+    }
+  },
+  {
+    "id": "sv2a-065",
+    "name": "Alakazam ex",
+    "number": "65",
+    "rarity": "Double rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/065/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/065/high.png"
+    }
+  },
+  {
+    "id": "sv2a-066",
+    "name": "Machop",
+    "number": "66",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/066/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/066/high.png"
+    }
+  },
+  {
+    "id": "sv2a-067",
+    "name": "Machoke",
+    "number": "67",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/067/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/067/high.png"
+    }
+  },
+  {
+    "id": "sv2a-068",
+    "name": "Machamp",
+    "number": "68",
+    "rarity": "Rare",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/068/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/068/high.png"
+    }
+  },
+  {
+    "id": "sv2a-069",
+    "name": "Bellsprout",
+    "number": "69",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/069/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/069/high.png"
+    }
+  },
+  {
+    "id": "sv2a-070",
+    "name": "Weepinbell",
+    "number": "70",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/070/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/070/high.png"
+    }
+  },
+  {
+    "id": "sv2a-071",
+    "name": "Victreebel",
+    "number": "71",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/071/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/071/high.png"
+    }
+  },
+  {
+    "id": "sv2a-072",
+    "name": "Tentacool",
+    "number": "72",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/072/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/072/high.png"
+    }
+  },
+  {
+    "id": "sv2a-073",
+    "name": "Tentacruel",
+    "number": "73",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/073/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/073/high.png"
+    }
+  },
+  {
+    "id": "sv2a-074",
+    "name": "Geodude",
+    "number": "74",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/074/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/074/high.png"
+    }
+  },
+  {
+    "id": "sv2a-075",
+    "name": "Graveler",
+    "number": "75",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/075/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/075/high.png"
+    }
+  },
+  {
+    "id": "sv2a-076",
+    "name": "Golem ex",
+    "number": "76",
+    "rarity": "Double rare",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/076/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/076/high.png"
+    }
+  },
+  {
+    "id": "sv2a-077",
+    "name": "Ponyta",
+    "number": "77",
+    "rarity": "Common",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/077/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/077/high.png"
+    }
+  },
+  {
+    "id": "sv2a-078",
+    "name": "Rapidash",
+    "number": "78",
+    "rarity": "Uncommon",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/078/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/078/high.png"
+    }
+  },
+  {
+    "id": "sv2a-079",
+    "name": "Slowpoke",
+    "number": "79",
+    "rarity": "Common",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/079/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/079/high.png"
+    }
+  },
+  {
+    "id": "sv2a-080",
+    "name": "Slowbro",
+    "number": "80",
+    "rarity": "Uncommon",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/080/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/080/high.png"
+    }
+  },
+  {
+    "id": "sv2a-081",
+    "name": "Magnemite",
+    "number": "81",
+    "rarity": "Common",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/081/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/081/high.png"
+    }
+  },
+  {
+    "id": "sv2a-082",
+    "name": "Magneton",
+    "number": "82",
+    "rarity": "Uncommon",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/082/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/082/high.png"
+    }
+  },
+  {
+    "id": "sv2a-083",
+    "name": "Farfetch’d",
+    "number": "83",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/083/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/083/high.png"
+    }
+  },
+  {
+    "id": "sv2a-084",
+    "name": "Doduo",
+    "number": "84",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/084/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/084/high.png"
+    }
+  },
+  {
+    "id": "sv2a-085",
+    "name": "Dodrio",
+    "number": "85",
+    "rarity": "Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/085/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/085/high.png"
+    }
+  },
+  {
+    "id": "sv2a-086",
+    "name": "Seel",
+    "number": "86",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/086/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/086/high.png"
+    }
+  },
+  {
+    "id": "sv2a-087",
+    "name": "Dewgong",
+    "number": "87",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/087/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/087/high.png"
+    }
+  },
+  {
+    "id": "sv2a-088",
+    "name": "Grimer",
+    "number": "88",
+    "rarity": "Common",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/088/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/088/high.png"
+    }
+  },
+  {
+    "id": "sv2a-089",
+    "name": "Muk",
+    "number": "89",
+    "rarity": "Uncommon",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/089/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/089/high.png"
+    }
+  },
+  {
+    "id": "sv2a-090",
+    "name": "Shellder",
+    "number": "90",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/090/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/090/high.png"
+    }
+  },
+  {
+    "id": "sv2a-091",
+    "name": "Cloyster",
+    "number": "91",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/091/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/091/high.png"
+    }
+  },
+  {
+    "id": "sv2a-092",
+    "name": "Gastly",
+    "number": "92",
+    "rarity": "Common",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/092/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/092/high.png"
+    }
+  },
+  {
+    "id": "sv2a-093",
+    "name": "Haunter",
+    "number": "93",
+    "rarity": "Uncommon",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/093/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/093/high.png"
+    }
+  },
+  {
+    "id": "sv2a-094",
+    "name": "Gengar",
+    "number": "94",
+    "rarity": "Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/094/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/094/high.png"
+    }
+  },
+  {
+    "id": "sv2a-095",
+    "name": "Onix",
+    "number": "95",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/095/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/095/high.png"
+    }
+  },
+  {
+    "id": "sv2a-096",
+    "name": "Drowzee",
+    "number": "96",
+    "rarity": "Common",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/096/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/096/high.png"
+    }
+  },
+  {
+    "id": "sv2a-097",
+    "name": "Hypno",
+    "number": "97",
+    "rarity": "Uncommon",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/097/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/097/high.png"
+    }
+  },
+  {
+    "id": "sv2a-098",
+    "name": "Krabby",
+    "number": "98",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/098/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/098/high.png"
+    }
+  },
+  {
+    "id": "sv2a-099",
+    "name": "Kingler",
+    "number": "99",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/099/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/099/high.png"
+    }
+  },
+  {
+    "id": "sv2a-100",
+    "name": "Voltorb",
+    "number": "100",
+    "rarity": "Common",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/100/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/100/high.png"
+    }
+  },
+  {
+    "id": "sv2a-101",
+    "name": "Electrode",
+    "number": "101",
+    "rarity": "Rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/101/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/101/high.png"
+    }
+  },
+  {
+    "id": "sv2a-102",
+    "name": "Exeggcute",
+    "number": "102",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/102/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/102/high.png"
+    }
+  },
+  {
+    "id": "sv2a-103",
+    "name": "Exeggutor",
+    "number": "103",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/103/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/103/high.png"
+    }
+  },
+  {
+    "id": "sv2a-104",
+    "name": "Cubone",
+    "number": "104",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/104/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/104/high.png"
+    }
+  },
+  {
+    "id": "sv2a-105",
+    "name": "Marowak",
+    "number": "105",
+    "rarity": "Rare",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/105/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/105/high.png"
+    }
+  },
+  {
+    "id": "sv2a-106",
+    "name": "Hitmonlee",
+    "number": "106",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/106/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/106/high.png"
+    }
+  },
+  {
+    "id": "sv2a-107",
+    "name": "Hitmonchan",
+    "number": "107",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/107/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/107/high.png"
+    }
+  },
+  {
+    "id": "sv2a-108",
+    "name": "Lickitung",
+    "number": "108",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/108/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/108/high.png"
+    }
+  },
+  {
+    "id": "sv2a-109",
+    "name": "Koffing",
+    "number": "109",
+    "rarity": "Common",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/109/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/109/high.png"
+    }
+  },
+  {
+    "id": "sv2a-110",
+    "name": "Weezing",
+    "number": "110",
+    "rarity": "Rare",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/110/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/110/high.png"
+    }
+  },
+  {
+    "id": "sv2a-111",
+    "name": "Rhyhorn",
+    "number": "111",
+    "rarity": "Common",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/111/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/111/high.png"
+    }
+  },
+  {
+    "id": "sv2a-112",
+    "name": "Rhydon",
+    "number": "112",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/112/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/112/high.png"
+    }
+  },
+  {
+    "id": "sv2a-113",
+    "name": "Chansey",
+    "number": "113",
+    "rarity": "Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/113/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/113/high.png"
+    }
+  },
+  {
+    "id": "sv2a-114",
+    "name": "Tangela",
+    "number": "114",
+    "rarity": "Common",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/114/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/114/high.png"
+    }
+  },
+  {
+    "id": "sv2a-115",
+    "name": "Kangaskhan ex",
+    "number": "115",
+    "rarity": "Double rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/115/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/115/high.png"
+    }
+  },
+  {
+    "id": "sv2a-116",
+    "name": "Horsea",
+    "number": "116",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/116/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/116/high.png"
+    }
+  },
+  {
+    "id": "sv2a-117",
+    "name": "Seadra",
+    "number": "117",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/117/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/117/high.png"
+    }
+  },
+  {
+    "id": "sv2a-118",
+    "name": "Goldeen",
+    "number": "118",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/118/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/118/high.png"
+    }
+  },
+  {
+    "id": "sv2a-119",
+    "name": "Seaking",
+    "number": "119",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/119/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/119/high.png"
+    }
+  },
+  {
+    "id": "sv2a-120",
+    "name": "Staryu",
+    "number": "120",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/120/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/120/high.png"
+    }
+  },
+  {
+    "id": "sv2a-121",
+    "name": "Starmie",
+    "number": "121",
+    "rarity": "Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/121/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/121/high.png"
+    }
+  },
+  {
+    "id": "sv2a-122",
+    "name": "Mr. Mime",
+    "number": "122",
+    "rarity": "Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/122/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/122/high.png"
+    }
+  },
+  {
+    "id": "sv2a-123",
+    "name": "Scyther",
+    "number": "123",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/123/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/123/high.png"
+    }
+  },
+  {
+    "id": "sv2a-124",
+    "name": "Jynx ex",
+    "number": "124",
+    "rarity": "Double rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/124/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/124/high.png"
+    }
+  },
+  {
+    "id": "sv2a-125",
+    "name": "Electabuzz",
+    "number": "125",
+    "rarity": "Common",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/125/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/125/high.png"
+    }
+  },
+  {
+    "id": "sv2a-126",
+    "name": "Magmar",
+    "number": "126",
+    "rarity": "Common",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/126/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/126/high.png"
+    }
+  },
+  {
+    "id": "sv2a-127",
+    "name": "Pinsir",
+    "number": "127",
+    "rarity": "Uncommon",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/127/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/127/high.png"
+    }
+  },
+  {
+    "id": "sv2a-128",
+    "name": "Tauros",
+    "number": "128",
+    "rarity": "Uncommon",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/128/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/128/high.png"
+    }
+  },
+  {
+    "id": "sv2a-129",
+    "name": "Magikarp",
+    "number": "129",
+    "rarity": "Common",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/129/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/129/high.png"
+    }
+  },
+  {
+    "id": "sv2a-130",
+    "name": "Gyarados",
+    "number": "130",
+    "rarity": "Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/130/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/130/high.png"
+    }
+  },
+  {
+    "id": "sv2a-131",
+    "name": "Lapras",
+    "number": "131",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/131/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/131/high.png"
+    }
+  },
+  {
+    "id": "sv2a-132",
+    "name": "Ditto",
+    "number": "132",
+    "rarity": "Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/132/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/132/high.png"
+    }
+  },
+  {
+    "id": "sv2a-133",
+    "name": "Eevee",
+    "number": "133",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/133/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/133/high.png"
+    }
+  },
+  {
+    "id": "sv2a-134",
+    "name": "Vaporeon",
+    "number": "134",
+    "rarity": "Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/134/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/134/high.png"
+    }
+  },
+  {
+    "id": "sv2a-135",
+    "name": "Jolteon",
+    "number": "135",
+    "rarity": "Rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/135/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/135/high.png"
+    }
+  },
+  {
+    "id": "sv2a-136",
+    "name": "Flareon",
+    "number": "136",
+    "rarity": "Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/136/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/136/high.png"
+    }
+  },
+  {
+    "id": "sv2a-137",
+    "name": "Porygon",
+    "number": "137",
+    "rarity": "Common",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/137/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/137/high.png"
+    }
+  },
+  {
+    "id": "sv2a-138",
+    "name": "Omanyte",
+    "number": "138",
+    "rarity": "Uncommon",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/138/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/138/high.png"
+    }
+  },
+  {
+    "id": "sv2a-139",
+    "name": "Omastar",
+    "number": "139",
+    "rarity": "Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/139/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/139/high.png"
+    }
+  },
+  {
+    "id": "sv2a-140",
+    "name": "Kabuto",
+    "number": "140",
+    "rarity": "Uncommon",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/140/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/140/high.png"
+    }
+  },
+  {
+    "id": "sv2a-141",
+    "name": "Kabutops",
+    "number": "141",
+    "rarity": "Rare",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/141/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/141/high.png"
+    }
+  },
+  {
+    "id": "sv2a-142",
+    "name": "Aerodactyl",
+    "number": "142",
+    "rarity": "Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/142/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/142/high.png"
+    }
+  },
+  {
+    "id": "sv2a-143",
+    "name": "Snorlax",
+    "number": "143",
+    "rarity": "Uncommon",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/143/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/143/high.png"
+    }
+  },
+  {
+    "id": "sv2a-144",
+    "name": "Articuno",
+    "number": "144",
+    "rarity": "Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/144/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/144/high.png"
+    }
+  },
+  {
+    "id": "sv2a-145",
+    "name": "Zapdos ex",
+    "number": "145",
+    "rarity": "Double rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/145/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/145/high.png"
+    }
+  },
+  {
+    "id": "sv2a-146",
+    "name": "Moltres",
+    "number": "146",
+    "rarity": "Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/146/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/146/high.png"
+    }
+  },
+  {
+    "id": "sv2a-147",
+    "name": "Dratini",
+    "number": "147",
+    "rarity": "Common",
+    "types": "Dragon",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/147/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/147/high.png"
+    }
+  },
+  {
+    "id": "sv2a-148",
+    "name": "Dragonair",
+    "number": "148",
+    "rarity": "Uncommon",
+    "types": "Dragon",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/148/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/148/high.png"
+    }
+  },
+  {
+    "id": "sv2a-149",
+    "name": "Dragonite",
+    "number": "149",
+    "rarity": "Rare",
+    "types": "Dragon",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/149/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/149/high.png"
+    }
+  },
+  {
+    "id": "sv2a-150",
+    "name": "Mewtwo",
+    "number": "150",
+    "rarity": "Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/150/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/150/high.png"
+    }
+  },
+  {
+    "id": "sv2a-151",
+    "name": "Mew ex",
+    "number": "151",
+    "rarity": "Double rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/151/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/151/high.png"
+    }
+  },
+  {
+    "id": "sv2a-152",
+    "name": "Energy Sticker",
+    "number": "152",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/152/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/152/high.png"
+    }
+  },
+  {
+    "id": "sv2a-153",
+    "name": "Snatch Arm",
+    "number": "153",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/153/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/153/high.png"
+    }
+  },
+  {
+    "id": "sv2a-154",
+    "name": "Old Helix Fossil",
+    "number": "154",
+    "rarity": "Common",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/154/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/154/high.png"
+    }
+  },
+  {
+    "id": "sv2a-155",
+    "name": "Old Dome Fossil",
+    "number": "155",
+    "rarity": "Common",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/155/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/155/high.png"
+    }
+  },
+  {
+    "id": "sv2a-156",
+    "name": "Old Amber",
+    "number": "156",
+    "rarity": "Common",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/156/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/156/high.png"
+    }
+  },
+  {
+    "id": "sv2a-157",
+    "name": "Safety Goggles",
+    "number": "157",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/157/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/157/high.png"
+    }
+  },
+  {
+    "id": "sv2a-158",
+    "name": "Big Balloon",
+    "number": "158",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/158/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/158/high.png"
+    }
+  },
+  {
+    "id": "sv2a-159",
+    "name": "Extra",
+    "number": "159",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/159/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/159/high.png"
+    }
+  },
+  {
+    "id": "sv2a-160",
+    "name": "Leftovers",
+    "number": "160",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/160/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/160/high.png"
+    }
+  },
+  {
+    "id": "sv2a-161",
+    "name": "Erika's Invitation",
+    "number": "161",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/161/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/161/high.png"
+    }
+  },
+  {
+    "id": "sv2a-162",
+    "name": "Giovanni's Charisma",
+    "number": "162",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/162/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/162/high.png"
+    }
+  },
+  {
+    "id": "sv2a-163",
+    "name": "Daisy's Assistance",
+    "number": "163",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/163/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/163/high.png"
+    }
+  },
+  {
+    "id": "sv2a-164",
+    "name": "Bill's Transfer",
+    "number": "164",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/164/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/164/high.png"
+    }
+  },
+  {
+    "id": "sv2a-165",
+    "name": "Cycling Road",
+    "number": "165",
+    "rarity": "Uncommon",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/165/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/165/high.png"
+    }
+  },
+  {
+    "id": "sv2a-166",
+    "name": "Bulbasaur",
+    "number": "166",
+    "rarity": "Alt Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/166/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/166/high.png"
+    }
+  },
+  {
+    "id": "sv2a-167",
+    "name": "Ivysaur",
+    "number": "167",
+    "rarity": "Alt Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/167/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/167/high.png"
+    }
+  },
+  {
+    "id": "sv2a-168",
+    "name": "Charmander",
+    "number": "168",
+    "rarity": "Alt Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/168/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/168/high.png"
+    }
+  },
+  {
+    "id": "sv2a-169",
+    "name": "Charmeleon",
+    "number": "169",
+    "rarity": "Alt Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/169/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/169/high.png"
+    }
+  },
+  {
+    "id": "sv2a-170",
+    "name": "Squirtle",
+    "number": "170",
+    "rarity": "Alt Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/170/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/170/high.png"
+    }
+  },
+  {
+    "id": "sv2a-171",
+    "name": "Wartortle",
+    "number": "171",
+    "rarity": "Alt Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/171/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/171/high.png"
+    }
+  },
+  {
+    "id": "sv2a-172",
+    "name": "Caterpie",
+    "number": "172",
+    "rarity": "Alt Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/172/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/172/high.png"
+    }
+  },
+  {
+    "id": "sv2a-173",
+    "name": "Pikachu",
+    "number": "173",
+    "rarity": "Alt Rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/173/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/173/high.png"
+    }
+  },
+  {
+    "id": "sv2a-174",
+    "name": "Nidoking",
+    "number": "174",
+    "rarity": "Alt Rare",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/174/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/174/high.png"
+    }
+  },
+  {
+    "id": "sv2a-175",
+    "name": "Psyduck",
+    "number": "175",
+    "rarity": "Alt Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/175/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/175/high.png"
+    }
+  },
+  {
+    "id": "sv2a-176",
+    "name": "Poliwhirl",
+    "number": "176",
+    "rarity": "Alt Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/176/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/176/high.png"
+    }
+  },
+  {
+    "id": "sv2a-177",
+    "name": "Machoke",
+    "number": "177",
+    "rarity": "Alt Rare",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/177/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/177/high.png"
+    }
+  },
+  {
+    "id": "sv2a-178",
+    "name": "Tangela",
+    "number": "178",
+    "rarity": "Alt Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/178/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/178/high.png"
+    }
+  },
+  {
+    "id": "sv2a-179",
+    "name": "Mr. Mime",
+    "number": "179",
+    "rarity": "Alt Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/179/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/179/high.png"
+    }
+  },
+  {
+    "id": "sv2a-180",
+    "name": "Omanyte",
+    "number": "180",
+    "rarity": "Alt Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/180/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/180/high.png"
+    }
+  },
+  {
+    "id": "sv2a-181",
+    "name": "Snorlax",
+    "number": "181",
+    "rarity": "Alt Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/181/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/181/high.png"
+    }
+  },
+  {
+    "id": "sv2a-182",
+    "name": "Dragonair",
+    "number": "182",
+    "rarity": "Alt Rare",
+    "types": "Dragon",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/182/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/182/high.png"
+    }
+  },
+  {
+    "id": "sv2a-183",
+    "name": "Mewtwo",
+    "number": "183",
+    "rarity": "Alt Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/183/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/183/high.png"
+    }
+  },
+  {
+    "id": "sv2a-184",
+    "name": "Venusaur ex",
+    "number": "184",
+    "rarity": "Secret Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/184/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/184/high.png"
+    }
+  },
+  {
+    "id": "sv2a-185",
+    "name": "Charizard ex",
+    "number": "185",
+    "rarity": "Secret Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/185/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/185/high.png"
+    }
+  },
+  {
+    "id": "sv2a-186",
+    "name": "Blastoise ex",
+    "number": "186",
+    "rarity": "Secret Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/186/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/186/high.png"
+    }
+  },
+  {
+    "id": "sv2a-187",
+    "name": "Arbok ex",
+    "number": "187",
+    "rarity": "Secret Rare",
+    "types": "Darkness",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/187/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/187/high.png"
+    }
+  },
+  {
+    "id": "sv2a-188",
+    "name": "Ninetales ex",
+    "number": "188",
+    "rarity": "Secret Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/188/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/188/high.png"
+    }
+  },
+  {
+    "id": "sv2a-189",
+    "name": "Wigglytuff ex",
+    "number": "189",
+    "rarity": "Secret Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/189/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/189/high.png"
+    }
+  },
+  {
+    "id": "sv2a-190",
+    "name": "Alakazam ex",
+    "number": "190",
+    "rarity": "Secret Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/190/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/190/high.png"
+    }
+  },
+  {
+    "id": "sv2a-191",
+    "name": "Golem ex",
+    "number": "191",
+    "rarity": "Secret Rare",
+    "types": "Fighting",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/191/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/191/high.png"
+    }
+  },
+  {
+    "id": "sv2a-192",
+    "name": "Kangaskhan ex",
+    "number": "192",
+    "rarity": "Secret Rare",
+    "types": "Colorless",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/192/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/192/high.png"
+    }
+  },
+  {
+    "id": "sv2a-193",
+    "name": "Jynx ex",
+    "number": "193",
+    "rarity": "Secret Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/193/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/193/high.png"
+    }
+  },
+  {
+    "id": "sv2a-194",
+    "name": "Zapdos ex",
+    "number": "194",
+    "rarity": "Secret Rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/194/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/194/high.png"
+    }
+  },
+  {
+    "id": "sv2a-195",
+    "name": "Mew ex",
+    "number": "195",
+    "rarity": "Secret Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/195/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/195/high.png"
+    }
+  },
+  {
+    "id": "sv2a-196",
+    "name": "Erika's Invitation",
+    "number": "196",
+    "rarity": "Secret Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/196/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/196/high.png"
+    }
+  },
+  {
+    "id": "sv2a-197",
+    "name": "Giovanni's Charisma",
+    "number": "197",
+    "rarity": "Secret Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/197/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/197/high.png"
+    }
+  },
+  {
+    "id": "sv2a-198",
+    "name": "Daisy's Assistance",
+    "number": "198",
+    "rarity": "Secret Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/198/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/198/high.png"
+    }
+  },
+  {
+    "id": "sv2a-199",
+    "name": "Bill's Transfer",
+    "number": "199",
+    "rarity": "Secret Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/199/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/199/high.png"
+    }
+  },
+  {
+    "id": "sv2a-200",
+    "name": "Venusaur ex",
+    "number": "200",
+    "rarity": "Special Art Rare",
+    "types": "Grass",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/200/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/200/high.png"
+    }
+  },
+  {
+    "id": "sv2a-201",
+    "name": "Charizard ex",
+    "number": "201",
+    "rarity": "Special Art Rare",
+    "types": "Fire",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/201/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/201/high.png"
+    }
+  },
+  {
+    "id": "sv2a-202",
+    "name": "Blastoise ex",
+    "number": "202",
+    "rarity": "Special Art Rare",
+    "types": "Water",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/202/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/202/high.png"
+    }
+  },
+  {
+    "id": "sv2a-203",
+    "name": "Alakazam ex",
+    "number": "203",
+    "rarity": "Special Art Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/203/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/203/high.png"
+    }
+  },
+  {
+    "id": "sv2a-204",
+    "name": "Zapdos ex",
+    "number": "204",
+    "rarity": "Special Art Rare",
+    "types": "Lightning",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/204/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/204/high.png"
+    }
+  },
+  {
+    "id": "sv2a-205",
+    "name": "Mew ex",
+    "number": "205",
+    "rarity": "Special Art Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/205/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/205/high.png"
+    }
+  },
+  {
+    "id": "sv2a-206",
+    "name": "Erika's Invitation",
+    "number": "206",
+    "rarity": "Special Art Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/206/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/206/high.png"
+    }
+  },
+  {
+    "id": "sv2a-207",
+    "name": "Giovanni's Charisma",
+    "number": "207",
+    "rarity": "Special Art Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/207/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/207/high.png"
+    }
+  },
+  {
+    "id": "sv2a-208",
+    "name": "Mew ex",
+    "number": "208",
+    "rarity": "Ultra Rare",
+    "types": "Psychic",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/208/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/208/high.png"
+    }
+  },
+  {
+    "id": "sv2a-209",
+    "name": "Switch",
+    "number": "209",
+    "rarity": "Ultra Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/209/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/209/high.png"
+    }
+  },
+  {
+    "id": "sv2a-210",
+    "name": "Psychic Energy",
+    "number": "210",
+    "rarity": "Ultra Rare",
+    "types": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV2a/210/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV2a/210/high.png"
+    }
+  }
+]
