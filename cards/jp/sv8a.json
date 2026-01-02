@@ -1,0 +1,7586 @@
+[
+  {
+    "id": "sv8a-001",
+    "name": "Budew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "1",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/001/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/001/high.png"
+    }
+  },
+  {
+    "id": "sv8a-002",
+    "name": "Leafeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "2",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/002/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/002/high.png"
+    }
+  },
+  {
+    "id": "sv8a-003",
+    "name": "Leafeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "3",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/003/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/003/high.png"
+    }
+  },
+  {
+    "id": "sv8a-004",
+    "name": "Cottonee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "4",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/004/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/004/high.png"
+    }
+  },
+  {
+    "id": "sv8a-005",
+    "name": "Whimsicott",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "5",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/005/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/005/high.png"
+    }
+  },
+  {
+    "id": "sv8a-006",
+    "name": "Grookey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "6",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/006/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/006/high.png"
+    }
+  },
+  {
+    "id": "sv8a-007",
+    "name": "Thwackey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "7",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/007/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/007/high.png"
+    }
+  },
+  {
+    "id": "sv8a-008",
+    "name": "Applin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "8",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/008/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/008/high.png"
+    }
+  },
+  {
+    "id": "sv8a-009",
+    "name": "Dipplin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "9",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/009/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/009/high.png"
+    }
+  },
+  {
+    "id": "sv8a-010",
+    "name": "Hydrapple ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "10",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/010/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/010/high.png"
+    }
+  },
+  {
+    "id": "sv8a-011",
+    "name": "Bramblin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "11",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/011/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/011/high.png"
+    }
+  },
+  {
+    "id": "sv8a-012",
+    "name": "Brambleghast",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "12",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/012/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/012/high.png"
+    }
+  },
+  {
+    "id": "sv8a-013",
+    "name": "Rellor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "13",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/013/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/013/high.png"
+    }
+  },
+  {
+    "id": "sv8a-014",
+    "name": "Rabsca",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "14",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/014/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/014/high.png"
+    }
+  },
+  {
+    "id": "sv8a-015",
+    "name": "Wo-Chien",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "15",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/015/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/015/high.png"
+    }
+  },
+  {
+    "id": "sv8a-016",
+    "name": "Iron Leafes ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "16",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/016/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/016/high.png"
+    }
+  },
+  {
+    "id": "sv8a-017",
+    "name": "Poltchageist",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "17",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/017/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/017/high.png"
+    }
+  },
+  {
+    "id": "sv8a-018",
+    "name": "Sinistcha",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "18",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/018/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/018/high.png"
+    }
+  },
+  {
+    "id": "sv8a-019",
+    "name": "Sinistcha ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "19",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/019/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/019/high.png"
+    }
+  },
+  {
+    "id": "sv8a-020",
+    "name": "Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "20",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/020/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/020/high.png"
+    }
+  },
+  {
+    "id": "sv8a-021",
+    "name": "Flareon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "21",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/021/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/021/high.png"
+    }
+  },
+  {
+    "id": "sv8a-022",
+    "name": "Flareon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "22",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/022/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/022/high.png"
+    }
+  },
+  {
+    "id": "sv8a-023",
+    "name": "Charcadet",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "23",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/023/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/023/high.png"
+    }
+  },
+  {
+    "id": "sv8a-024",
+    "name": "Iron Moth",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "24",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/024/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/024/high.png"
+    }
+  },
+  {
+    "id": "sv8a-025",
+    "name": "Chi-Yu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "25",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/025/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/025/high.png"
+    }
+  },
+  {
+    "id": "sv8a-026",
+    "name": "Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "26",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/026/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/026/high.png"
+    }
+  },
+  {
+    "id": "sv8a-027",
+    "name": "Gouging Fire ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "27",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/027/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/027/high.png"
+    }
+  },
+  {
+    "id": "sv8a-028",
+    "name": "Goldeen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "28",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/028/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/028/high.png"
+    }
+  },
+  {
+    "id": "sv8a-029",
+    "name": "Seaking",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "29",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/029/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/029/high.png"
+    }
+  },
+  {
+    "id": "sv8a-030",
+    "name": "Vaporeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "30",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/030/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/030/high.png"
+    }
+  },
+  {
+    "id": "sv8a-031",
+    "name": "Vaporeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "31",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/031/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/031/high.png"
+    }
+  },
+  {
+    "id": "sv8a-032",
+    "name": "Totodile",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "32",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/032/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/032/high.png"
+    }
+  },
+  {
+    "id": "sv8a-033",
+    "name": "Croconaw",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "33",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/033/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/033/high.png"
+    }
+  },
+  {
+    "id": "sv8a-034",
+    "name": "Feraligatr",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "34",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/034/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/034/high.png"
+    }
+  },
+  {
+    "id": "sv8a-035",
+    "name": "Feebas",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "35",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/035/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/035/high.png"
+    }
+  },
+  {
+    "id": "sv8a-036",
+    "name": "Milotic",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "36",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/036/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/036/high.png"
+    }
+  },
+  {
+    "id": "sv8a-037",
+    "name": "Snorunt",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "37",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/037/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/037/high.png"
+    }
+  },
+  {
+    "id": "sv8a-038",
+    "name": "Froslass",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "38",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/038/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/038/high.png"
+    }
+  },
+  {
+    "id": "sv8a-039",
+    "name": "Garchomp ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "39",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/039/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/039/high.png"
+    }
+  },
+  {
+    "id": "sv8a-040",
+    "name": "Glaceon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "40",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/040/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/040/high.png"
+    }
+  },
+  {
+    "id": "sv8a-041",
+    "name": "Glaceon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "41",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/041/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/041/high.png"
+    }
+  },
+  {
+    "id": "sv8a-042",
+    "name": "Wiglett",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "42",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/042/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/042/high.png"
+    }
+  },
+  {
+    "id": "sv8a-043",
+    "name": "Wugtrio",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "43",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/043/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/043/high.png"
+    }
+  },
+  {
+    "id": "sv8a-044",
+    "name": "Finizen",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "44",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/044/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/044/high.png"
+    }
+  },
+  {
+    "id": "sv8a-045",
+    "name": "Palafin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "45",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/045/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/045/high.png"
+    }
+  },
+  {
+    "id": "sv8a-046",
+    "name": "Palafin ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "46",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/046/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/046/high.png"
+    }
+  },
+  {
+    "id": "sv8a-047",
+    "name": "Iron Bundle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "47",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/047/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/047/high.png"
+    }
+  },
+  {
+    "id": "sv8a-048",
+    "name": "Chien-Pao",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "48",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/048/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/048/high.png"
+    }
+  },
+  {
+    "id": "sv8a-049",
+    "name": "Walking Wake ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "49",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/049/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/049/high.png"
+    }
+  },
+  {
+    "id": "sv8a-050",
+    "name": "Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "50",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/050/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/050/high.png"
+    }
+  },
+  {
+    "id": "sv8a-051",
+    "name": "Jolteon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "51",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/051/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/051/high.png"
+    }
+  },
+  {
+    "id": "sv8a-052",
+    "name": "Jolteon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "52",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/052/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/052/high.png"
+    }
+  },
+  {
+    "id": "sv8a-053",
+    "name": "Zeraora",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "53",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/053/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/053/high.png"
+    }
+  },
+  {
+    "id": "sv8a-054",
+    "name": "Iron Hands ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "54",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/054/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/054/high.png"
+    }
+  },
+  {
+    "id": "sv8a-055",
+    "name": "Iron Thorns",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "55",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/055/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/055/high.png"
+    }
+  },
+  {
+    "id": "sv8a-056",
+    "name": "Iron Thorns ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "56",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/056/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/056/high.png"
+    }
+  },
+  {
+    "id": "sv8a-057",
+    "name": "Abra",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "57",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/057/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/057/high.png"
+    }
+  },
+  {
+    "id": "sv8a-058",
+    "name": "Kadabra",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "58",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/058/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/058/high.png"
+    }
+  },
+  {
+    "id": "sv8a-059",
+    "name": "Alakazam",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "59",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/059/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/059/high.png"
+    }
+  },
+  {
+    "id": "sv8a-060",
+    "name": "Natu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "60",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/060/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/060/high.png"
+    }
+  },
+  {
+    "id": "sv8a-061",
+    "name": "Xatu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "61",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/061/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/061/high.png"
+    }
+  },
+  {
+    "id": "sv8a-062",
+    "name": "Espeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "62",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/062/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/062/high.png"
+    }
+  },
+  {
+    "id": "sv8a-063",
+    "name": "Espeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "63",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/063/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/063/high.png"
+    }
+  },
+  {
+    "id": "sv8a-064",
+    "name": "Duskull",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "64",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/064/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/064/high.png"
+    }
+  },
+  {
+    "id": "sv8a-065",
+    "name": "Dusclops",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "65",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/065/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/065/high.png"
+    }
+  },
+  {
+    "id": "sv8a-066",
+    "name": "Dusknoir",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "66",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/066/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/066/high.png"
+    }
+  },
+  {
+    "id": "sv8a-067",
+    "name": "Swirlix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "67",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/067/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/067/high.png"
+    }
+  },
+  {
+    "id": "sv8a-068",
+    "name": "Sylveon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "68",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/068/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/068/high.png"
+    }
+  },
+  {
+    "id": "sv8a-069",
+    "name": "Sylveon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "69",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/069/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/069/high.png"
+    }
+  },
+  {
+    "id": "sv8a-070",
+    "name": "Ceruledge",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "70",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/070/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/070/high.png"
+    }
+  },
+  {
+    "id": "sv8a-071",
+    "name": "Scream Tail",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "71",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/071/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/071/high.png"
+    }
+  },
+  {
+    "id": "sv8a-072",
+    "name": "Flutter Mane",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "72",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/072/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/072/high.png"
+    }
+  },
+  {
+    "id": "sv8a-073",
+    "name": "Gimmighoul",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "73",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/073/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/073/high.png"
+    }
+  },
+  {
+    "id": "sv8a-074",
+    "name": "Iron Valiant ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "74",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/074/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/074/high.png"
+    }
+  },
+  {
+    "id": "sv8a-075",
+    "name": "Munkidori",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "75",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/075/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/075/high.png"
+    }
+  },
+  {
+    "id": "sv8a-076",
+    "name": "Fezandipiti",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "76",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/076/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/076/high.png"
+    }
+  },
+  {
+    "id": "sv8a-077",
+    "name": "Iron Boulder",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "77",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/077/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/077/high.png"
+    }
+  },
+  {
+    "id": "sv8a-078",
+    "name": "Iron Crown ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "78",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/078/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/078/high.png"
+    }
+  },
+  {
+    "id": "sv8a-079",
+    "name": "Relicanth",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "79",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/079/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/079/high.png"
+    }
+  },
+  {
+    "id": "sv8a-080",
+    "name": "Groudon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "80",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/080/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/080/high.png"
+    }
+  },
+  {
+    "id": "sv8a-081",
+    "name": "Gible",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "81",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/081/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/081/high.png"
+    }
+  },
+  {
+    "id": "sv8a-082",
+    "name": "Gabite",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "82",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/082/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/082/high.png"
+    }
+  },
+  {
+    "id": "sv8a-083",
+    "name": "Drilbur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "83",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/083/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/083/high.png"
+    }
+  },
+  {
+    "id": "sv8a-084",
+    "name": "Hawlucha",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "84",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/084/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/084/high.png"
+    }
+  },
+  {
+    "id": "sv8a-085",
+    "name": "Ursaluna",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "85",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/085/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/085/high.png"
+    }
+  },
+  {
+    "id": "sv8a-086",
+    "name": "Great Tusk",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "86",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/086/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/086/high.png"
+    }
+  },
+  {
+    "id": "sv8a-087",
+    "name": "Slither Wing",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "87",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/087/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/087/high.png"
+    }
+  },
+  {
+    "id": "sv8a-088",
+    "name": "Sandy Shocks ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "88",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/088/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/088/high.png"
+    }
+  },
+  {
+    "id": "sv8a-089",
+    "name": "Ting-Lu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "89",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/089/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/089/high.png"
+    }
+  },
+  {
+    "id": "sv8a-090",
+    "name": "Okidogi",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "90",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/090/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/090/high.png"
+    }
+  },
+  {
+    "id": "sv8a-091",
+    "name": "Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "91",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/091/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/091/high.png"
+    }
+  },
+  {
+    "id": "sv8a-092",
+    "name": "Umbreon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "92",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/092/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/092/high.png"
+    }
+  },
+  {
+    "id": "sv8a-093",
+    "name": "Umbreon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "93",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/093/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/093/high.png"
+    }
+  },
+  {
+    "id": "sv8a-094",
+    "name": "Trubbish",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "94",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/094/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/094/high.png"
+    }
+  },
+  {
+    "id": "sv8a-095",
+    "name": "Garbodor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "95",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/095/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/095/high.png"
+    }
+  },
+  {
+    "id": "sv8a-096",
+    "name": "Zorua",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "96",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/096/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/096/high.png"
+    }
+  },
+  {
+    "id": "sv8a-097",
+    "name": "Zoroark",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "97",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/097/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/097/high.png"
+    }
+  },
+  {
+    "id": "sv8a-098",
+    "name": "Morpeko",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "98",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/098/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/098/high.png"
+    }
+  },
+  {
+    "id": "sv8a-099",
+    "name": "Brute Bonnet",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "99",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/099/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/099/high.png"
+    }
+  },
+  {
+    "id": "sv8a-100",
+    "name": "Roaring Moon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "100",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/100/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/100/high.png"
+    }
+  },
+  {
+    "id": "sv8a-101",
+    "name": "Roaring Moon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "101",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/101/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/101/high.png"
+    }
+  },
+  {
+    "id": "sv8a-102",
+    "name": "Okidogi ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "102",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/102/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/102/high.png"
+    }
+  },
+  {
+    "id": "sv8a-103",
+    "name": "Munkidori ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "103",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/103/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/103/high.png"
+    }
+  },
+  {
+    "id": "sv8a-104",
+    "name": "Fenzandipiti ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "104",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/104/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/104/high.png"
+    }
+  },
+  {
+    "id": "sv8a-105",
+    "name": "Peacharunt ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "105",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/105/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/105/high.png"
+    }
+  },
+  {
+    "id": "sv8a-106",
+    "name": "Beldum",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "106",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/106/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/106/high.png"
+    }
+  },
+  {
+    "id": "sv8a-107",
+    "name": "Metang",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "107",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/107/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/107/high.png"
+    }
+  },
+  {
+    "id": "sv8a-108",
+    "name": "Jirachi",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "108",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/108/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/108/high.png"
+    }
+  },
+  {
+    "id": "sv8a-109",
+    "name": "Honedge",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "109",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/109/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/109/high.png"
+    }
+  },
+  {
+    "id": "sv8a-110",
+    "name": "Doublade",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "110",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/110/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/110/high.png"
+    }
+  },
+  {
+    "id": "sv8a-111",
+    "name": "Aegislash",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "111",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/111/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/111/high.png"
+    }
+  },
+  {
+    "id": "sv8a-112",
+    "name": "Duraludon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "112",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/112/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/112/high.png"
+    }
+  },
+  {
+    "id": "sv8a-113",
+    "name": "Archaludon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "113",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/113/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/113/high.png"
+    }
+  },
+  {
+    "id": "sv8a-114",
+    "name": "Varoom",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "114",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/114/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/114/high.png"
+    }
+  },
+  {
+    "id": "sv8a-115",
+    "name": "Revavroom",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "115",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/115/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/115/high.png"
+    }
+  },
+  {
+    "id": "sv8a-116",
+    "name": "Iron Treads",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "116",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/116/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/116/high.png"
+    }
+  },
+  {
+    "id": "sv8a-117",
+    "name": "Gholdengo ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "117",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/117/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/117/high.png"
+    }
+  },
+  {
+    "id": "sv8a-118",
+    "name": "Dreepy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "118",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/118/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/118/high.png"
+    }
+  },
+  {
+    "id": "sv8a-119",
+    "name": "Drakloak",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "119",
+    "artist": "",
+    "rarity": "Uncommon",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/119/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/119/high.png"
+    }
+  },
+  {
+    "id": "sv8a-120",
+    "name": "Dragapult ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "120",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/120/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/120/high.png"
+    }
+  },
+  {
+    "id": "sv8a-121",
+    "name": "Tatsugiri",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "121",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/121/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/121/high.png"
+    }
+  },
+  {
+    "id": "sv8a-122",
+    "name": "Koraidon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "122",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/122/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/122/high.png"
+    }
+  },
+  {
+    "id": "sv8a-123",
+    "name": "Miraidon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "123",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/123/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/123/high.png"
+    }
+  },
+  {
+    "id": "sv8a-124",
+    "name": "Raging Bolt ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "124",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/124/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/124/high.png"
+    }
+  },
+  {
+    "id": "sv8a-125",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "125",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/125/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/125/high.png"
+    }
+  },
+  {
+    "id": "sv8a-126",
+    "name": "Eevee ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "126",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/126/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/126/high.png"
+    }
+  },
+  {
+    "id": "sv8a-127",
+    "name": "Hoothoot",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "127",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/127/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/127/high.png"
+    }
+  },
+  {
+    "id": "sv8a-128",
+    "name": "Noctowl",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "128",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/128/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/128/high.png"
+    }
+  },
+  {
+    "id": "sv8a-129",
+    "name": "Dunsparce",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "129",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/129/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/129/high.png"
+    }
+  },
+  {
+    "id": "sv8a-130",
+    "name": "Dudunsparce",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "130",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/130/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/130/high.png"
+    }
+  },
+  {
+    "id": "sv8a-131",
+    "name": "Rotom",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "131",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/131/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/131/high.png"
+    }
+  },
+  {
+    "id": "sv8a-132",
+    "name": "Regigigas",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "132",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/132/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/132/high.png"
+    }
+  },
+  {
+    "id": "sv8a-133",
+    "name": "Bouffalant",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "133",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/133/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/133/high.png"
+    }
+  },
+  {
+    "id": "sv8a-134",
+    "name": "Ursaluna ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "134",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/134/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/134/high.png"
+    }
+  },
+  {
+    "id": "sv8a-135",
+    "name": "Iron Jugulis",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "135",
+    "artist": "",
+    "rarity": "None",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/135/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/135/high.png"
+    }
+  },
+  {
+    "id": "sv8a-136",
+    "name": "Terapagos ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "136",
+    "artist": "",
+    "rarity": "Double rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/136/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/136/high.png"
+    }
+  },
+  {
+    "id": "sv8a-137",
+    "name": "Ogre's Mask",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "137",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/137/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/137/high.png"
+    }
+  },
+  {
+    "id": "sv8a-138",
+    "name": "Enhanced Hammer",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "138",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/138/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/138/high.png"
+    }
+  },
+  {
+    "id": "sv8a-139",
+    "name": "Counter Catcher",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "139",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/139/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/139/high.png"
+    }
+  },
+  {
+    "id": "sv8a-140",
+    "name": "Glass Trumpet",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "140",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/140/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/140/high.png"
+    }
+  },
+  {
+    "id": "sv8a-141",
+    "name": "Superior Energy Retrieval",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "141",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/141/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/141/high.png"
+    }
+  },
+  {
+    "id": "sv8a-142",
+    "name": "Fishing Rod MAX",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "142",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/142/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/142/high.png"
+    }
+  },
+  {
+    "id": "sv8a-143",
+    "name": "Earthen Vessel",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "143",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/143/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/143/high.png"
+    }
+  },
+  {
+    "id": "sv8a-144",
+    "name": "Techno Radar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "144",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/144/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/144/high.png"
+    }
+  },
+  {
+    "id": "sv8a-145",
+    "name": "Tera Orb",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "145",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/145/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/145/high.png"
+    }
+  },
+  {
+    "id": "sv8a-146",
+    "name": "Treasure Gadget",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "146",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/146/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/146/high.png"
+    }
+  },
+  {
+    "id": "sv8a-147",
+    "name": "BuddyPoffin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "147",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/147/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/147/high.png"
+    }
+  },
+  {
+    "id": "sv8a-148",
+    "name": "Prime Catcher",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "148",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/148/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/148/high.png"
+    }
+  },
+  {
+    "id": "sv8a-149",
+    "name": "Scoop Up Cyclone",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "149",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/149/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/149/high.png"
+    }
+  },
+  {
+    "id": "sv8a-150",
+    "name": "Bug Catching Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "150",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/150/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/150/high.png"
+    }
+  },
+  {
+    "id": "sv8a-151",
+    "name": "Night Stretcher",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "151",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/151/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/151/high.png"
+    }
+  },
+  {
+    "id": "sv8a-152",
+    "name": "Sparkling Crystal",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "152",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/152/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/152/high.png"
+    }
+  },
+  {
+    "id": "sv8a-153",
+    "name": "Rescue Board",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "153",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/153/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/153/high.png"
+    }
+  },
+  {
+    "id": "sv8a-154",
+    "name": "Binding Mochi",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "154",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/154/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/154/high.png"
+    }
+  },
+  {
+    "id": "sv8a-155",
+    "name": "Luxurious Cape",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "155",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/155/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/155/high.png"
+    }
+  },
+  {
+    "id": "sv8a-156",
+    "name": "Haben Berry",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "156",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/156/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/156/high.png"
+    }
+  },
+  {
+    "id": "sv8a-157",
+    "name": "Ancient Booster Capsule Energy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "157",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/157/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/157/high.png"
+    }
+  },
+  {
+    "id": "sv8a-158",
+    "name": "Future Booster Energy Capsule",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "158",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/158/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/158/high.png"
+    }
+  },
+  {
+    "id": "sv8a-159",
+    "name": "Maximum Belt",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "159",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/159/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/159/high.png"
+    }
+  },
+  {
+    "id": "sv8a-160",
+    "name": "Technical Machine: Evolution",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "160",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/160/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/160/high.png"
+    }
+  },
+  {
+    "id": "sv8a-161",
+    "name": "Technical Machine: Devolution",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "161",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/161/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/161/high.png"
+    }
+  },
+  {
+    "id": "sv8a-162",
+    "name": "Larry's Professionalism",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "162",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/162/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/162/high.png"
+    }
+  },
+  {
+    "id": "sv8a-163",
+    "name": "Crispin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "163",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/163/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/163/high.png"
+    }
+  },
+  {
+    "id": "sv8a-164",
+    "name": "Colress's Tenacity",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "164",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/164/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/164/high.png"
+    }
+  },
+  {
+    "id": "sv8a-165",
+    "name": "Ciphermanic's Codebreaking",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "165",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/165/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/165/high.png"
+    }
+  },
+  {
+    "id": "sv8a-166",
+    "name": "Janine's Secret Art",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "166",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/166/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/166/high.png"
+    }
+  },
+  {
+    "id": "sv8a-167",
+    "name": "Professor Sada's Vitality",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "167",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/167/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/167/high.png"
+    }
+  },
+  {
+    "id": "sv8a-168",
+    "name": "Lana's Aid",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "168",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/168/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/168/high.png"
+    }
+  },
+  {
+    "id": "sv8a-169",
+    "name": "Kieran",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "169",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/169/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/169/high.png"
+    }
+  },
+  {
+    "id": "sv8a-170",
+    "name": "Carmine",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "170",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/170/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/170/high.png"
+    }
+  },
+  {
+    "id": "sv8a-171",
+    "name": "Lacey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "171",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/171/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/171/high.png"
+    }
+  },
+  {
+    "id": "sv8a-172",
+    "name": "Explorer's Guidance",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "172",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/172/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/172/high.png"
+    }
+  },
+  {
+    "id": "sv8a-173",
+    "name": "Amarys",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "173",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/173/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/173/high.png"
+    }
+  },
+  {
+    "id": "sv8a-174",
+    "name": "Friends in Paldea",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "174",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/174/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/174/high.png"
+    }
+  },
+  {
+    "id": "sv8a-175",
+    "name": "Professor Turo's Scenario",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "175",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/175/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/175/high.png"
+    }
+  },
+  {
+    "id": "sv8a-176",
+    "name": "Briar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "176",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/176/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/176/high.png"
+    }
+  },
+  {
+    "id": "sv8a-177",
+    "name": "Bianca's Devotion",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "177",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/177/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/177/high.png"
+    }
+  },
+  {
+    "id": "sv8a-178",
+    "name": "Morty's Conviction",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "178",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/178/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/178/high.png"
+    }
+  },
+  {
+    "id": "sv8a-179",
+    "name": "Mela",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "179",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/179/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/179/high.png"
+    }
+  },
+  {
+    "id": "sv8a-180",
+    "name": "Festival Grounds",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "180",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/180/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/180/high.png"
+    }
+  },
+  {
+    "id": "sv8a-181",
+    "name": "Jamming Tower",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "181",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/181/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/181/high.png"
+    }
+  },
+  {
+    "id": "sv8a-182",
+    "name": "Area Zero Underdepths",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "182",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/182/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/182/high.png"
+    }
+  },
+  {
+    "id": "sv8a-183",
+    "name": "Moonlit Hill",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "183",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/183/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/183/high.png"
+    }
+  },
+  {
+    "id": "sv8a-184",
+    "name": "Neutralization Zone",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "184",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/184/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/184/high.png"
+    }
+  },
+  {
+    "id": "sv8a-185",
+    "name": "Jet Energy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "185",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/185/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/185/high.png"
+    }
+  },
+  {
+    "id": "sv8a-186",
+    "name": "Mist Energy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "186",
+    "artist": "",
+    "rarity": "Common",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/186/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/186/high.png"
+    }
+  },
+  {
+    "id": "sv8a-187",
+    "name": "Enriching Energy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "187",
+    "artist": "",
+    "rarity": "Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/187/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/187/high.png"
+    }
+  },
+  {
+    "id": "sv8a-188",
+    "name": "Larry's Efficiency",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "188",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/188/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/188/high.png"
+    }
+  },
+  {
+    "id": "sv8a-189",
+    "name": "Ortega",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "189",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/189/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/189/high.png"
+    }
+  },
+  {
+    "id": "sv8a-190",
+    "name": "Brassius",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "190",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/190/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/190/high.png"
+    }
+  },
+  {
+    "id": "sv8a-191",
+    "name": "Atticus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "191",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/191/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/191/high.png"
+    }
+  },
+  {
+    "id": "sv8a-192",
+    "name": "Atticus",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "192",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/192/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/192/high.png"
+    }
+  },
+  {
+    "id": "sv8a-193",
+    "name": "Tyme",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "193",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/193/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/193/high.png"
+    }
+  },
+  {
+    "id": "sv8a-194",
+    "name": "Amarys",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "194",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/194/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/194/high.png"
+    }
+  },
+  {
+    "id": "sv8a-195",
+    "name": "Friends in Paldea",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "195",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/195/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/195/high.png"
+    }
+  },
+  {
+    "id": "sv8a-196",
+    "name": "Giacomo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "196",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/196/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/196/high.png"
+    }
+  },
+  {
+    "id": "sv8a-197",
+    "name": "Eri",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "197",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/197/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/197/high.png"
+    }
+  },
+  {
+    "id": "sv8a-198",
+    "name": "Mela",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "198",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/198/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/198/high.png"
+    }
+  },
+  {
+    "id": "sv8a-199",
+    "name": "Raifort",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "199",
+    "artist": "",
+    "rarity": "Super Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/199/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/199/high.png"
+    }
+  },
+  {
+    "id": "sv8a-200",
+    "name": "Leafeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "200",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/200/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/200/high.png"
+    }
+  },
+  {
+    "id": "sv8a-201",
+    "name": "Teal Mask Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "201",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/201/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/201/high.png"
+    }
+  },
+  {
+    "id": "sv8a-202",
+    "name": "Flareon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "202",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/202/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/202/high.png"
+    }
+  },
+  {
+    "id": "sv8a-203",
+    "name": "Ceruledge ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "203",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/203/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/203/high.png"
+    }
+  },
+  {
+    "id": "sv8a-204",
+    "name": "Hearthflame Mask Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "204",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/204/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/204/high.png"
+    }
+  },
+  {
+    "id": "sv8a-205",
+    "name": "Vaporeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "205",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/205/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/205/high.png"
+    }
+  },
+  {
+    "id": "sv8a-206",
+    "name": "Glaceon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "206",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/206/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/206/high.png"
+    }
+  },
+  {
+    "id": "sv8a-207",
+    "name": "Palafin ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "207",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/207/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/207/high.png"
+    }
+  },
+  {
+    "id": "sv8a-208",
+    "name": "Wellspring Mask Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "208",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/208/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/208/high.png"
+    }
+  },
+  {
+    "id": "sv8a-209",
+    "name": "Jolteon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "209",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/209/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/209/high.png"
+    }
+  },
+  {
+    "id": "sv8a-210",
+    "name": "Iron Hands ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "210",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/210/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/210/high.png"
+    }
+  },
+  {
+    "id": "sv8a-211",
+    "name": "Espeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "211",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/211/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/211/high.png"
+    }
+  },
+  {
+    "id": "sv8a-212",
+    "name": "Sylveon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "212",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/212/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/212/high.png"
+    }
+  },
+  {
+    "id": "sv8a-213",
+    "name": "Iron Valiant ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "213",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/213/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/213/high.png"
+    }
+  },
+  {
+    "id": "sv8a-214",
+    "name": "Iron Crown ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "214",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/214/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/214/high.png"
+    }
+  },
+  {
+    "id": "sv8a-215",
+    "name": "Sandy Shocks ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "215",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/215/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/215/high.png"
+    }
+  },
+  {
+    "id": "sv8a-216",
+    "name": "Cornerstone Mask Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "216",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/216/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/216/high.png"
+    }
+  },
+  {
+    "id": "sv8a-217",
+    "name": "Umbreon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "217",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/217/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/217/high.png"
+    }
+  },
+  {
+    "id": "sv8a-218",
+    "name": "Roaring Moon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "218",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/218/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/218/high.png"
+    }
+  },
+  {
+    "id": "sv8a-219",
+    "name": "Pecharunt ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "219",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/219/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/219/high.png"
+    }
+  },
+  {
+    "id": "sv8a-220",
+    "name": "Gholdengo ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "220",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/220/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/220/high.png"
+    }
+  },
+  {
+    "id": "sv8a-221",
+    "name": "Dragapult ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "221",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/221/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/221/high.png"
+    }
+  },
+  {
+    "id": "sv8a-222",
+    "name": "Raging Bolt ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "222",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/222/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/222/high.png"
+    }
+  },
+  {
+    "id": "sv8a-223",
+    "name": "Eevee ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "223",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/223/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/223/high.png"
+    }
+  },
+  {
+    "id": "sv8a-224",
+    "name": "Eevee ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "224",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/224/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/224/high.png"
+    }
+  },
+  {
+    "id": "sv8a-225",
+    "name": "Bloodmoon Ursaluna ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "225",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/225/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/225/high.png"
+    }
+  },
+  {
+    "id": "sv8a-226",
+    "name": "Terapagos ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "226",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/226/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/226/high.png"
+    }
+  },
+  {
+    "id": "sv8a-227",
+    "name": "Crispin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "227",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/227/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/227/high.png"
+    }
+  },
+  {
+    "id": "sv8a-228",
+    "name": "Janine's Secret Technique",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "228",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/228/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/228/high.png"
+    }
+  },
+  {
+    "id": "sv8a-229",
+    "name": "Drayton",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "229",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/229/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/229/high.png"
+    }
+  },
+  {
+    "id": "sv8a-230",
+    "name": "Kieran",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "230",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/230/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/230/high.png"
+    }
+  },
+  {
+    "id": "sv8a-231",
+    "name": "Lacey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "231",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/231/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/231/high.png"
+    }
+  },
+  {
+    "id": "sv8a-232",
+    "name": "Amarys",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      ""
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "232",
+    "artist": "",
+    "rarity": "Special Art Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/232/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/232/high.png"
+    }
+  },
+  {
+    "id": "sv8a-233",
+    "name": "Iron Leaves ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "233",
+    "artist": "",
+    "rarity": "Ultra Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/233/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/233/high.png"
+    }
+  },
+  {
+    "id": "sv8a-234",
+    "name": "Teal Mask Ogerpon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "234",
+    "artist": "",
+    "rarity": "Ultra Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/234/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/234/high.png"
+    }
+  },
+  {
+    "id": "sv8a-235",
+    "name": "Walking Wake ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "235",
+    "artist": "",
+    "rarity": "Ultra Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/235/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/235/high.png"
+    }
+  },
+  {
+    "id": "sv8a-236",
+    "name": "Pikachu ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "236",
+    "artist": "",
+    "rarity": "Ultra Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/236/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/236/high.png"
+    }
+  },
+  {
+    "id": "sv8a-237",
+    "name": "Terapagos ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [],
+    "attacks": [],
+    "weaknesses": [],
+    "retreatCost": [],
+    "convertedRetreatCost": "",
+    "number": "237",
+    "artist": "",
+    "rarity": "Ultra Rare",
+    "flavorText": "",
+    "nationalPokedexNumbers": [],
+    "legalities": {
+      "unlimited": "",
+      "standard": "",
+      "expanded": ""
+    },
+    "regulationMark": "",
+    "images": {
+      "small": "https://assets.tcgdex.net/ja/SV/SV8a/237/low.png",
+      "large": "https://assets.tcgdex.net/ja/SV/SV8a/237/high.png"
+    }
+  }
+]
