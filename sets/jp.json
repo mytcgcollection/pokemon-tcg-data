@@ -1,5 +1,23 @@
 [
   {
+    "id": "sv8a",
+    "name": "Terastal Festival",
+    "series": "Scarlet & Violet",
+    "printedTotal": 187,
+    "total": 237,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "releaseDate": "2024/02/12",
+    "updatedAt": "2026/02/01",
+    "images": {
+      "symbol": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_Trading_Card_Game_expansions#/media/File:SV8a_Terastal_Fest_ex_Logo.png",
+      "logo": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_Trading_Card_Game_expansions#/media/File:SV8a_Terastal_Fest_ex_Logo.png"
+    }
+  },
+  {
     "id": "sv2a-151",
     "name": "151",
     "series": "Scarlet & Violet",
@@ -10,7 +28,6 @@
       "standard": "Legal",
       "expanded": "Legal"
     },
-    "ptcgoCode": "MEW",
     "releaseDate": "2023/06/16",
     "updatedAt": "2026/01/01",
     "images": {
