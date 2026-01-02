@@ -18,6 +18,24 @@
     }
   },
   {
+    "id": "sv9",
+    "name": "Battle Partners",
+    "series": "Scarlet & Violet",
+    "printedTotal": 100,
+    "total": 132,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "releaseDate": "2025/01/24",
+    "updatedAt": "2026/02/01",
+    "images": {
+      "symbol": "https://archives.bulbagarden.net/media/upload/b/b4/SV9_Logo_JP.png",
+      "logo": "https://archives.bulbagarden.net/media/upload/b/b4/SV9_Logo_JP.png"
+    }
+  },
+  {
     "id": "sv2a-151",
     "name": "151",
     "series": "Scarlet & Violet",
