@@ -1,5 +1,23 @@
 [
   {
+    "id": "s9a",
+    "name": "Battle Region",
+    "series": "Sword & Shield Series",
+    "printedTotal": 67,
+    "total": 93,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "releaseDate": "2022/25/01",
+    "updatedAt": "2026/06/01",
+    "images": {
+      "symbol": "https://den-media.pokellector.com/logos/Battle-Region.logo.339.png",
+      "logo": "https://den-media.pokellector.com/logos/Battle-Region.logo.339.png"
+    }
+  },
+  {
     "id": "sv8a",
     "name": "Terastal Festival ex",
     "series": "Scarlet & Violet",
@@ -13,8 +31,8 @@
     "releaseDate": "2024/02/12",
     "updatedAt": "2026/02/01",
     "images": {
-      "symbol": "https://archives.bulbagarden.net/media/upload/9/9c/SV8a_Terastal_Fest_ex_Logo.png",
-      "logo": "https://archives.bulbagarden.net/media/upload/9/9c/SV8a_Terastal_Fest_ex_Logo.png"
+      "symbol": "https://den-media.pokellector.com/logos/Terastal-Festival-ex.logo.406.png",
+      "logo": "https://den-media.pokellector.com/logos/Terastal-Festival-ex.logo.406.png"
     }
   },
   {
@@ -31,8 +49,8 @@
     "releaseDate": "2025/01/24",
     "updatedAt": "2026/02/01",
     "images": {
-      "symbol": "https://archives.bulbagarden.net/media/upload/b/b4/SV9_Logo_JP.png",
-      "logo": "https://archives.bulbagarden.net/media/upload/b/b4/SV9_Logo_JP.png"
+      "symbol": "https://den-media.pokellector.com/logos/Battle-Partners.logo.408.png",
+      "logo": "https://den-media.pokellector.com/logos/Battle-Partners.logo.408.png"
     }
   },
   {
@@ -49,8 +67,8 @@
     "releaseDate": "2023/06/16",
     "updatedAt": "2026/01/01",
     "images": {
-      "symbol": "https://archives.bulbagarden.net/media/upload/1/12/SV2a_Pok%C3%A9mon_Card_151_Logo.png",
-      "logo": "https://archives.bulbagarden.net/media/upload/1/12/SV2a_Pok%C3%A9mon_Card_151_Logo.png"
+      "symbol": "https://den-media.pokellector.com/logos/Pokemon-151.logo.371.png",
+      "logo": "https://den-media.pokellector.com/logos/Pokemon-151.logo.371.png"
     }
   }
 ]
