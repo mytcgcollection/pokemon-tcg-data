@@ -88,5 +88,23 @@
       "symbol": "https://den-media.pokellector.com/logos/Pokemon-151.logo.371.png",
       "logo": "https://den-media.pokellector.com/logos/Pokemon-151.logo.371.png"
     }
+  },
+  {
+    "id": "svp",
+    "name": "Scarlet & Violet Promos",
+    "series": "Scarlet & Violet",
+    "printedTotal": 290,
+    "total": 290,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "releaseDate": "2022/12/09",
+    "updatedAt": "2026/01/27",
+    "images": {
+      "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.360.png",
+      "logo": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.360.png"
+    }
   }
 ]
