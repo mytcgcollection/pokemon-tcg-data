@@ -106,5 +106,23 @@
       "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.360.png",
       "logo": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.360.png"
     }
+  },
+  {
+    "id": "m2",
+    "name": "Inferno X",
+    "series": "MEGA Series",
+    "printedTotal": 80,
+    "total": 116,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "releaseDate": "2025/09/06",
+    "updatedAt": "2026/01/28",
+    "images": {
+      "symbol": "https://den-media.pokellector.com/logos/Inferno-X.logo.425.png",
+      "logo": "https://den-media.pokellector.com/logos/Inferno-X.logo.425.png"
+    }
   }
 ]
